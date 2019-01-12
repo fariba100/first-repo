@@ -1,1 +1,2 @@
 Hello now I'm a file.
+Hello again.
